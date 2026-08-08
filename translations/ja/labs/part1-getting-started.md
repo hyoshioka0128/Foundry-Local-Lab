@@ -1,4 +1,4 @@
-# Part 1: Foundry Localの使い方入門
+# パート1: Foundry Localの使い方入門
 
 ![Foundry Local](https://www.foundrylocal.ai/logos/foundry-local-logo-color.svg)
 
