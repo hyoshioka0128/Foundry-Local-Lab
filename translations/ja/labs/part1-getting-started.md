@@ -149,7 +149,7 @@ Foundry Localは<strong>ローカルHTTPサービス</strong>として動作し�
 
 ## 次のステップ
 
-[パート 2: Foundry Local SDK 詳細解説](part2-foundry-local-sdk.md) に進み、モデル管理、サービス操作、キャッシュ管理をプログラムから行うSDK APIを習得しましょう。
+[パート2: Foundry Local SDK 詳細解説](part2-foundry-local-sdk.md) に進み、モデル管理、サービス操作、キャッシュ管理をプログラムから行うSDK APIを習得しましょう。
 
 ---
 
