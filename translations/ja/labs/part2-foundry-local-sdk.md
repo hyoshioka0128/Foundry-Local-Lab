@@ -1,12 +1,12 @@
 ![Foundry Local](https://www.foundrylocal.ai/logos/foundry-local-logo-color.svg)
 
-# パート 2: Foundry Local SDK 詳細解説
+# パート2: Foundry Local SDK 詳細解説
 
 > **目標:** Foundry Local SDK をマスターして、プログラムからモデル、サービス、キャッシュを管理できるようになること。そして、なぜアプリ構築には CLI より SDK の使用が推奨されているのか理解すること。
 
 ## 概要
 
-パート 1 では **Foundry Local CLI** を使ってモデルをダウンロードし、対話的に実行しました。CLI は探索に適していますが、本格的なアプリ開発では <strong>プログラム制御</strong> が必要です。Foundry Local SDK はこれを実現します。SDK は <strong>コントロールプレーン</strong>（サービスの起動、モデルの検出、ダウンロード、ロード）を管理し、アプリコードは <strong>データプレーン</strong>（プロンプトの送信、完了の受信）に集中できます。
+パート1 では **Foundry Local CLI** を使ってモデルをダウンロードし、対話的に実行しました。CLI は探索に適していますが、本格的なアプリ開発では <strong>プログラム制御</strong> が必要です。Foundry Local SDK はこれを実現します。SDK は <strong>コントロールプレーン</strong>（サービスの起動、モデルの検出、ダウンロード、ロード）を管理し、アプリコードは <strong>データプレーン</strong>（プロンプトの送信、完了の受信）に集中できます。
 
 このラボでは Python、JavaScript、C# の SDK API 全体を学びます。最後には使える全てのメソッドを理解し、適切な使い分けができるようになります。
 
@@ -29,7 +29,7 @@
 
 | 要件 | 詳細 |
 |------|------|
-| **Foundry Local CLI** | インストール済みで PATH にあること ([パート 1](part1-getting-started.md)) |
+| **Foundry Local CLI** | インストール済みで PATH にあること ([パート1](part1-getting-started.md)) |
 | <strong>言語ランタイム</strong> | **Python 3.9+** かつ/または **Node.js 18+** かつ/または **.NET 9.0+** |
 
 ---
