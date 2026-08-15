@@ -515,7 +515,7 @@ response = client.chat.completions.create(
 
 ---
 
-[← パート10：カスタムモデル](part10-custom-models.md) | [パート12：ZavaライターUI →](part12-zava-ui.md)
+[← パート10：カスタムモデル](part10-custom-models.md) | [パート12：Zava Writer UI →](part12-zava-ui.md)
 
 ---
 
