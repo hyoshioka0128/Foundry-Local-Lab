@@ -72,8 +72,8 @@
 
 | 要件 | 詳細 |
 |-------------|---------|
-| **Foundry Local CLI** | インストール済み、`PATH`に設定されている ([Part 1](part1-getting-started.md)) |
-| **Foundry Local SDK** | Python、JavaScript、または C# SDK がインストールされている ([Part 2](part2-foundry-local-sdk.md)) |
+| **Foundry Local CLI** | インストール済み、`PATH`に設定されている ([パート1](part1-getting-started.md)) |
+| **Foundry Local SDK** | Python、JavaScript、または C# SDK がインストールされている ([パート2](part2-foundry-local-sdk.md)) |
 | <strong>ツール呼び出し対応モデル</strong> | qwen2.5-0.5b（自動的にダウンロードされます） |
 
 ---
